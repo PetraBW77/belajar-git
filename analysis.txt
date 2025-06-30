@@ -3,3 +3,6 @@ This analysis file is created by
 Name : Petra BW
 Favourite Programming Language : Python
 Location: Surakarta
+
+Email:petrabinantuwidiasto@gmail.com
+Edited from Github Web
